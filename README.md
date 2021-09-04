@@ -10,7 +10,11 @@ Also, if you end up using one of these ideas, if you open an issue or a discussi
 
 ## GPT-3 Textbooks
 
-What if you trained GPT-3 on logic textbooks? Could you somehow make the GPT model output valid logical syllogisms, or would you only end up with technical-sounding gibberish?
+What if you trained GPT-3 on logic textbooks? Could you somehow make the GPT model output valid logical syllogisms, or would you only end up with technical-sounding gibberish? You could get a lot of public domain books from [Project Gutenberg](https://gutenberg.org/), so it wouldn't be too hard,
+
+What about if you trained GPT on Chemistry textbooks? Could it tell you any real facts?
+
+What about other subjects?
 
 ## Anbox F-droid integration
 
