@@ -18,10 +18,10 @@ What about other subjects?
 
 ## Anbox F-droid integration
 
-Anbox is a way to run Android apps on Linux. Could you make a CLI for F-droid, then allow a user to install Android apps to Anbox with a command? Maybe make a package-manager-like interface for F-droid?
+[Anbox](https://anbox.io/) is a way to run Android apps on Linux. Could you make a CLI for [F-droid](https://f-droid.org/), then allow a user to install Android apps to Anbox with a command? Maybe make a package-manager-like interface for F-droid?
 
 This was inspired by Microsoft's adding of Android apps to their store.
 
 ## Muzei saints wallpaper
 
-It would be nice if there was a plugin for Muzei, an Android app to deal with live wallpapers, which changed the wallpaper to the saint of the day or to the color of the priest's vestments. The Catholic Mega App may have some of this functionality already, so this isn't completely original, but it'd still be cool.
+It would be nice if there was a plugin for [Muzei](https://muzei.co/), an Android app to deal with live wallpapers, which changed the wallpaper to the saint of the day or to the color of the priest's vestments. The Catholic Mega App may have some of this functionality already, so this isn't completely original, but it'd still be cool.
