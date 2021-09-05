@@ -18,6 +18,8 @@ Visit the [Discussions tab](https://github.com/2br-2b/Public-Domain-Ideas/discus
 
 Perhaps https://github.com/mvdan/fdroidcl could be used as a starting point to build this.
 
+You could also use the EFF's new [apkeep](https://www.eff.org/deeplinks/2021/09/introducing-apkeep-eff-threat-labs-new-apk-downloader) to get apps from the Google Play Store as well.
+
 This was inspired by Microsoft's adding of Android apps to their store.
 
 ### Anytube Video Platform Aggregator
