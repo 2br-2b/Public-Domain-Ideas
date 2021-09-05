@@ -20,6 +20,8 @@ What about other subjects?
 
 [Anbox](https://anbox.io/) is a way to run Android apps on Linux. Could you make a CLI for [F-droid](https://f-droid.org/), then allow a user to install Android apps to Anbox with a command? Maybe make a package-manager-like interface for F-droid?
 
+Maybe https://github.com/mvdan/fdroidcl could be used as a starting point to build this?
+
 This was inspired by Microsoft's adding of Android apps to their store.
 
 ## Muzei saints wallpaper
