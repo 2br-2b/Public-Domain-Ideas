@@ -8,15 +8,9 @@ Also, if you end up using one of these ideas, if you open an issue or a discussi
 
 # Ideas
 
-## GPT-3 Textbooks
+## Programs
 
-What if you trained GPT-3 on logic textbooks? Could you somehow make the GPT model output valid logical syllogisms, or would you only end up with technical-sounding gibberish? You could get a lot of public domain books from [Project Gutenberg](https://gutenberg.org/), so it wouldn't be too hard,
-
-What about if you trained GPT on Chemistry textbooks? Could it tell you any real facts?
-
-What about other subjects?
-
-## Anbox F-droid integration
+**Anbox F-droid integration**
 
 [Anbox](https://anbox.io/) is a way to run Android apps on Linux. Could you make a CLI for [F-droid](https://f-droid.org/), then allow a user to install Android apps to Anbox with a command? Maybe make a package-manager-like interface for F-droid?
 
@@ -24,7 +18,19 @@ Maybe https://github.com/mvdan/fdroidcl could be used as a starting point to bui
 
 This was inspired by Microsoft's adding of Android apps to their store.
 
-## Muzei saints wallpaper
+## Experiments
+
+**GPT-3 Textbooks**
+
+What if you trained GPT-3 on logic textbooks? Could you somehow make the GPT model output valid logical syllogisms, or would you only end up with technical-sounding gibberish? You could get a lot of public domain books from [Project Gutenberg](https://gutenberg.org/), so it wouldn't be too hard,
+
+What about if you trained GPT on Chemistry textbooks? Could it tell you any real facts?
+
+What about other subjects?
+
+## Religion
+
+**Muzei saints wallpaper**
 
 It would be nice if there was a plugin for [Muzei](https://muzei.co/), an Android app to deal with live wallpapers, which changed the wallpaper to the saint of the day or to the color of the priest's vestments. The Catholic Mega App may have some of this functionality already, so this isn't completely original, but it'd still be cool.
 
