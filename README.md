@@ -30,4 +30,4 @@ It would be nice if there was a plugin for [Muzei](https://muzei.co/), an Androi
 
 All images powered by IPFS
 
-<img src="https://2br-2b.github.io/Public-Domain-Ideas/ipfs/QmUnLW4zb4zQML87Lp9mp1Roz52TrqHkwk6yDV67tURnPy" alt="IPFS Logo" width="200">
+<img src="https://ipfs.io/ipfs/QmUnLW4zb4zQML87Lp9mp1Roz52TrqHkwk6yDV67tURnPy" alt="IPFS Logo" width="200">
