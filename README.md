@@ -62,18 +62,6 @@ Signal has a great interface for searching for gifs. The only problem is that th
 
 It'd be great if the search were lifted from Signal's code and made available as a stand-alone app. It could still be integrated with Signal, but I'd like it separate also for use in other apps!
 
-## Experiments
-
-**GPT-3 Textbooks**
-
-What if you trained GPT-3 on logic textbooks? Could you somehow make the GPT model output valid logical syllogisms, or would you only end up with technical-sounding gibberish? You could get a lot of public domain books from [Project Gutenberg](https://gutenberg.org/), so it wouldn't be too hard to get a sample set.
-
-What about if you trained GPT on Chemistry textbooks? Could it tell you any real facts?
-
-What about other subjects?
-
-## Misc.
-
 **IRL Achievements**
 
 You get achievements for doing things in video games, but doing things IRL can be boring. People are willing to play Power Washer Simulator, but they aren't willing to go out and power wash in real life. Sometimes, you need the satisfaction of seeing meaningless numbers go up on a computer screen in order to motivate you to do things.
@@ -85,6 +73,17 @@ You could monitize the product by having sponsored achievements: visit Disneylan
 You could also have random achievements, like talk to a random stranger, play piano in public, etc. to help spice up life. The posibilities are endless!
 
 [Habitica](https://habitica.com/static/home) has something similar to this, but IRL Achievements would be for doing specific things. You could have a global leaderboard to say who has the most IRL points, see what percentage of people have done XYZ, and use this to motivate yourself.
+
+
+## Experiments
+
+**GPT-3 Textbooks**
+
+What if you trained GPT-3 on logic textbooks? Could you somehow make the GPT model output valid logical syllogisms, or would you only end up with technical-sounding gibberish? You could get a lot of public domain books from [Project Gutenberg](https://gutenberg.org/), so it wouldn't be too hard to get a sample set.
+
+What about if you trained GPT on Chemistry textbooks? Could it tell you any real facts?
+
+What about other subjects?
 
 ## Religion
 
