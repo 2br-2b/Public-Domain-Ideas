@@ -25,3 +25,9 @@ This was inspired by Microsoft's adding of Android apps to their store.
 ## Muzei saints wallpaper
 
 It would be nice if there was a plugin for [Muzei](https://muzei.co/), an Android app to deal with live wallpapers, which changed the wallpaper to the saint of the day or to the color of the priest's vestments. The Catholic Mega App may have some of this functionality already, so this isn't completely original, but it'd still be cool.
+
+---
+
+All images powered by IPFS
+
+<img src="https://ipfs.io/ipfs/QmUnLW4zb4zQML87Lp9mp1Roz52TrqHkwk6yDV67tURnPy" alt="IPFS Logo" width="200">
