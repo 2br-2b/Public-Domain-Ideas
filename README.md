@@ -70,9 +70,9 @@ You get achievements for doing things in video games, but doing things IRL can b
 
 What if there was an achievement board for achievements in real life? For example, you could get achievements for going camping, going to college, going to trade school, going on your first date, getting your first job, getting married, staying single for long enough, or anything else!
 
-You could monitize the product by having sponsored achievements: visit Disneyland, take a picture of yourself in a Spiderman costume, etc.
+You could monetize the product by having sponsored achievements: visit Disneyland, take a picture of yourself in a Spiderman costume, etc.
 
-You could also have random achievements, like talk to a random stranger, play piano in public, etc. to help spice up life. The posibilities are endless!
+You could also have random achievements, like talk to a random stranger, play piano in public, etc. to help spice up life. The possibilities are endless!
 
 [Habitica](https://habitica.com/static/home) has something similar to this, but IRL Achievements would be for doing specific things. You could have a global leaderboard to say who has the most IRL points, see what percentage of people have done XYZ, and use this to motivate yourself.
 
@@ -101,16 +101,18 @@ The only problem is that, as a Catholic, this Bible is [missing a few books](htt
 
 ### Catholic Catechism CLI
 
-The Catechism of the Catholic Church is an amazing resource which contains a summary of many of the teachings of the Catholic Church. It'd be amazing if this were to be accessible via the command line. On that thought, why not make the Suma and other great books accessible via the command line?
+The Catechism of the Catholic Church is an amazing resource which contains a summary of many of the teachings of the Catholic Church. It'd be amazing if this were to be accessible via the command line. On that thought, why not make the Summa and other great books accessible via the command line?
 
 ### Automatically format ProPresenter slides
 
-When I'm at a church using ProPresenter, one thing always annoys me: inconsistencies. Why are there punctuation marks on this line, but not there? Why is this line capitalized, but not that one? Why aren't any two slides consistant in their formatting, either in the same song or between songs? Sometimes, it seems the sound techs are just out to annoy you! (And yes, I can say this - I was a sound tech, and I worked hard to make the slides consistant!)
+When I'm at a church using ProPresenter, one thing always annoys me: inconsistencies. Why are there punctuation marks on this line, but not there? Why is this line capitalized, but not that one? Why aren't any two slides consistent in their formatting, either in the same song or between songs? Sometimes, it seems the sound techs are just out to annoy you! (And yes, I can say this - I was a sound tech, and I worked hard to make the slides consistent!)
 
-What if there was a ProPresenter/OpenLP/etc. add-on that made the slides consistant? It would't be perfect, but at least it'd help me and the few out there like me to be less distracted by the slides.
+What if there was a ProPresenter/OpenLP/etc. add-on that made the slides consistent? It wouldn't be perfect, but at least it'd help me and the few out there like me to be less distracted by the slides.
 
 ---
 
-All (future) images powered by IPFS
+# Credits
+
+All (future) images on the Github Pages site powered by IPFS
 
 <img src="https://ipfs.io/ipfs/QmUnLW4zb4zQML87Lp9mp1Roz52TrqHkwk6yDV67tURnPy" alt="IPFS Logo" width="200">
