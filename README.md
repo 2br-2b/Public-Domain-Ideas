@@ -6,11 +6,13 @@ While I'd like credit if one of these inspires you, no credit is necessary.
 
 Also, if you end up using one of these ideas, if you open an issue or a discussion, I'd love to link to it! Open an issue and let me know about it!
 
+Visit the [Discussions tab](https://github.com/2br-2b/Public-Domain-Ideas/discussions) to comment on a specific idea.
+
 # Ideas
 
 ## Programs
 
-**Anbox F-droid integration**
+### Anbox F-droid integration
 
 [Anbox](https://anbox.io/) is a way to run Android apps on Linux. Could you make a CLI for [F-droid](https://f-droid.org/), then allow a user to install Android apps to Anbox with a command? Maybe make a package manager interface for F-droid on Linux?
 
@@ -18,7 +20,7 @@ Perhaps https://github.com/mvdan/fdroidcl could be used as a starting point to b
 
 This was inspired by Microsoft's adding of Android apps to their store.
 
-**Anytube Video Platform Aggregator**
+### Anytube Video Platform Aggregator
 
 There needs to be more competition in the video platform market. Youtube is the only major player, and startups like [Odysee](https://odysee.com/) and [Peertube](https://joinpeertube.org/) are struggling to catch up. One of the main reasons for this is that no one wants to watch some content on Youtube, then to switch to Odysee, then Dtube, and so on for all their videos. While I follow my creators via RSS feeds across platforms, this isn't easy for a non-tech-savvy user. Also, while solutions like Youtube-dl work, Youtube-dl violates [Youtube's terms of service](https://www.youtube.com/static?template=terms), which could lead to your Google/Gmail account being blocked.
 
@@ -50,19 +52,19 @@ Platforms to hopefully add:
 - DailyMotion
 - All the platforms!
 
-**Sync application dictionaries**
+### Sync application dictionaries
 
 (I assume this is the same for Windows, though I can't confirm)
 
 When I add a word to my personal spelling dictionary in LibreOffice on Linux, I expect the computer to now recognize the word everywhere. However, if I type that word in Marktext or Joplin later, I'll have to mark down every time that the word exists! It'd be nice if all the dictionaries were synced together.
 
-**Signal gif search**
+### Signal gif search
 
 Signal has a great interface for searching for gifs. The only problem is that the interface is buried away. If I want to find a gif and use it in another app, I need to send a message with the gif to myself, then copy it.
 
 It'd be great if the search were lifted from Signal's code and made available as a stand-alone app. It could still be integrated with Signal, but I'd like it separate also for use in other apps!
 
-**IRL Achievements**
+### IRL Achievements
 
 You get achievements for doing things in video games, but doing things IRL can be boring. People are willing to play Power Washer Simulator, but they aren't willing to go out and power wash in real life. Sometimes, you need the satisfaction of seeing meaningless numbers go up on a computer screen in order to motivate you to do things.
 
@@ -75,9 +77,9 @@ You could also have random achievements, like talk to a random stranger, play pi
 [Habitica](https://habitica.com/static/home) has something similar to this, but IRL Achievements would be for doing specific things. You could have a global leaderboard to say who has the most IRL points, see what percentage of people have done XYZ, and use this to motivate yourself.
 
 
-## Experiments
+## Experiments to run
 
-**GPT-3 Textbooks**
+### GPT-3 Textbooks
 
 What if you trained GPT-3 on logic textbooks? Could you somehow make the GPT model output valid logical syllogisms, or would you only end up with technical-sounding gibberish? You could get a lot of public domain books from [Project Gutenberg](https://gutenberg.org/), so it wouldn't be too hard to get a sample set.
 
@@ -87,21 +89,21 @@ What about other subjects?
 
 ## Religion
 
-**Muzei saints wallpaper**
+### Muzei saints wallpaper
 
 It would be nice if there was a plugin for [Muzei](https://muzei.co/), an Android app to deal with live wallpapers, which changed the wallpaper to the saint of the day or to the color of the priest's vestments. I've heard that the Catholic Mega App or some similar app may have some of this functionality already, so this idea isn't completely original, but it'd still be cool.
 
-**Catholic Bible.rs**
+### Catholic Bible.rs
 
 [@DSpeckhals](https://github.com/DSpeckhals) has made an amazing [open-source PWA](https://github.com/DSpeckhals/bible.rs) for accessing the King James Version of the Bible. He's done a fantastic job, and it's obvious a lot of work has been put into making the app simple yet functional!
 
 The only problem is that, as a Catholic, this Bible is [missing a few books](https://www.christianitytoday.com/history/2008/august/why-are-protestant-and-catholic-bibles-different.html). It'd be nice if there was a Catholic translation of the Bible here which included these missing books. The [Douay-Rheims Version](https://www.gutenberg.org/ebooks/8300) is in the public domain, so it'd be nice if it were available either as a toggle on the main app or as a separate web app.
 
-**Catholic Catechism CLI**
+### Catholic Catechism CLI
 
 The Catechism of the Catholic Church is an amazing resource which contains a summary of many of the teachings of the Catholic Church. It'd be amazing if this were to be accessible via the command line. On that thought, why not make the Suma and other great books accessible via the command line?
 
-**Automatically format ProPresenter slides**
+### Automatically format ProPresenter slides
 
 When I'm at a church using ProPresenter, one thing always annoys me: inconsistencies. Why are there punctuation marks on this line, but not there? Why is this line capitalized, but not that one? Why aren't any two slides consistant in their formatting, either in the same song or between songs? Sometimes, it seems the sound techs are just out to annoy you! (And yes, I can say this - I was a sound tech, and I worked hard to make the slides consistant!)
 
