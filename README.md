@@ -127,6 +127,6 @@ What if there was a ProPresenter/OpenLP/etc. add-on that made the slides consist
 
 # Credits
 
-All (future) images on the Github Pages site powered by IPFS
+All (future) images on the Github Pages site powered by [IPFS](https://ipfs.io/)
 
 <img src="https://ipfs.io/ipfs/QmUnLW4zb4zQML87Lp9mp1Roz52TrqHkwk6yDV67tURnPy" alt="IPFS Logo" width="200">
