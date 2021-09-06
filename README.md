@@ -89,6 +89,18 @@ What about if you trained GPT on Chemistry textbooks? Could it tell you any real
 
 What about other subjects?
 
+
+### Handwriting sleep deprivation measurement
+
+When you're tired, you're notes become less and less legible. As a college student, I can confirm this (totally not from personal experience, though. I can absolutely read all of the notes I've written in the past, especially the ones written on days I'm really tired).
+
+What if you tried to measure how tired someone is by how legible their notes are? Maybe run some notes through OCR and see how accurate it is, determine a percentage based off of that, and graph that along with how many hours of sleep you got the night/nights before. See if there's any clear correlation between the two.
+
+
+
+
+
+
 ## Religion
 
 ### Muzei saints wallpaper
