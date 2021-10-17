@@ -76,6 +76,8 @@ You could monetize the product by having sponsored achievements: visit Disneylan
 
 You could also have random achievements, like talk to a random stranger, play piano in public, etc. to help spice up life. The possibilities are endless!
 
+This was originally instpired by [IRLA: In Real Life Achievements](https://www.kickstarter.com/projects/antsylabs/irla-in-real-life-achievements), but I figured this would be cooler with global leaderboard!
+
 [Habitica](https://habitica.com/static/home) has something similar to this, but IRL Achievements would be for doing specific things. You could have a global leaderboard to say who has the most IRL points, see what percentage of people have done XYZ, and use this to motivate yourself.
 
 
